@@ -1,3 +1,3 @@
-# vanilla-sign-in-with-google-one-tap-demo
+# Sign-in with Google using Google One Tap API (vanilla JS)
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sign-in-with-google-one-tap-demo)
+Just see the `index.html`, `script.js` and `style.css`. Most operation is on `script.js`.
