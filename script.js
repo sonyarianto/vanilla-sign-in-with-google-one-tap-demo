@@ -1,7 +1,7 @@
 window.onGoogleLibraryLoad = () => {
   google.accounts.id.initialize({
     client_id:
-      '1080936340356-o5qa88e8ba4bfal13lth15s55pk03oir.apps.googleusercontent.com',
+      '682987667389-c64jd876oghjbqeuvev0cves20melkmn.apps.googleusercontent.com',
     cancel_on_tap_outside: false,
     callback: handleCredentialResponse,
   });
